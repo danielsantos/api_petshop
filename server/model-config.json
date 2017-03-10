@@ -40,7 +40,7 @@
     "public": true
   },
   "tutor": {
-    "dataSource": "db",
+    "dataSource": "mongodb",
     "public": true
   }
 }
